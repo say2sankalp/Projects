@@ -5,6 +5,12 @@ from environment import Agent, Environment
 from planner import RoutePlanner
 from simulator import Simulator
 
+##'''
+##this program is just unoptimized version  as yu can see we havent implemented algo
+##and its basidc many part worst case is big o n power 3 which is not good making it too slo
+##to respond
+##'''
+
 class LearningAgent(Agent):
     """An agent that learns to drive in the smartcab world."""
 
