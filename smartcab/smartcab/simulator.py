@@ -7,6 +7,8 @@ class Simulator(object):
     """Simulates agents in a dynamic smartcab environment.
 
     Uses PyGame to display GUI, if available.
+
+    Pygame uses mingc  which is gcc compiler baiscally 
     """
 
     colors = {
