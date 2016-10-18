@@ -1,5 +1,2 @@
-hello  git 
-its just test whethter u are working or not 
-
-
-i am pretty fast at learnign yaya!!
+smarcab is small project based on py library its not actual but really close to that one offcourse we need many thing to deal with real world problem.
+But first is lets take a small step.
