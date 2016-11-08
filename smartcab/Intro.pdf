@@ -1,0 +1,12 @@
+In this project goal was to train a smart car so that it could self drive itself with minimum collision in traffic under the prefects of various traffic lights.
+
+
+It was done using 
+PyGame 
+Machine Learning Scikit and scipy along with
+Numpy 
+Pandas
+Matplotlib
+
+
+
